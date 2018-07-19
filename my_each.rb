@@ -8,6 +8,6 @@ def my_each(collection)
   collection
 end
 
-my_each(collection).each do |ta|
+my_each(collection) do |ta|
   puts "#{ta}"
 end
