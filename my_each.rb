@@ -5,9 +5,9 @@ def my_each(collection)
     yield
     i = i + 1
   end
-  
+  collection
 end
 
 my_each(collection).each do |ta|
-  puts "#{ta{"
+  puts "#{ta}"
 end
