@@ -7,3 +7,5 @@ def my_each(collection)
   end
   
 end
+
+ta(collection)
