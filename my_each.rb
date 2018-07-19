@@ -1,5 +1,5 @@
 collection = %w()
 def my_each(collection)
   i = 0
-  while collection
+  while i < collection.length
 end
