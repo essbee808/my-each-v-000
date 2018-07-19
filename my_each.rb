@@ -1,4 +1,4 @@
 collection = %w()
-def my_each(array)
+def my_each(collection)
   # code here
 end
