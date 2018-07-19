@@ -1,4 +1,4 @@
 collection = %w()
 def my_each(collection)
-  # code here
+  i = 0
 end
