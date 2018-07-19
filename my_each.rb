@@ -8,4 +8,4 @@ def my_each(collection)
   
 end
 
-ta(collection)
+ta(collection).each do |ta|
