@@ -11,6 +11,7 @@ def my_each(collection)
   
   else
     false
+  end
   collection
 end
 
