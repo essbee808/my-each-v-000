@@ -9,7 +9,8 @@ def my_each(collection)
     i = i + 1
   end
   
-else
+  else
+    false
   collection
 end
 
