@@ -9,4 +9,5 @@ def my_each(collection)
 end
 
 my_each(collection).each do |ta|
-  ta.
+
+end
